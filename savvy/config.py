@@ -20,15 +20,15 @@ if env:
     api_id = os.environ.get("api_id")
     api_hash = os.environ.get("api_hash")
 else:
-    OWNER_ID = 6688753848
-    sudo_users = ["6765826972", "6046482147"]
-    GROUP_ID = -100
-    TOKEN = ""
-    mongo_url = "mongodb://localhost:27017/"
+    OWNER_ID = 7200052671
+    sudo_users = ["7200052671"]
+    GROUP_ID = -1002219450332
+    TOKEN = "7257328725:AAF4dynU4pOVdDfipgysNldqVZZT62f9NGw"
+    mongo_url = "mongodb+srv://MayuraSan:MayuraSan@cluster0.cconah4.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = -100
-    api_id = 123
-    api_hash = ""
+    SUPPORT_CHAT = "WaifuCatcherSupport"
+    UPDATE_CHAT = "waifucatcherupdate"
+    BOT_USERNAME = "waifucatcherrobot"
+    CHARA_CHANNEL_ID = -1002247616568
+    api_id = 16136051
+    api_hash = "0f558cfd8541ededbd14e0b22768af5d"
